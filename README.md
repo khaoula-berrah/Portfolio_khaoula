@@ -53,6 +53,8 @@ Merise , UML 2.0 .
 
 # My Projects
 My project likely involved combining these technologies to create a functional and visually appealing web application.
+https://khaoula-berrah.github.io/Portfolio_khaoula/
+https://khaoula-berrah.github.io/Delicious_Recipes_res/#
 
 # Contact Me
 I am currently enrolled in ALX Software enginnering focusing on computer science development, and I am eager to apply for an internship as part of my ongoing training.
